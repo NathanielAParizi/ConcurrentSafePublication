@@ -1,0 +1,2 @@
+rootProject.name='ConcurrentSafePublication'
+include ':app'
